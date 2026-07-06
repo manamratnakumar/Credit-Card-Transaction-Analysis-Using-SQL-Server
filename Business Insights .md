@@ -9,7 +9,7 @@ patterns. Using SQL Server, business-focused queries were developed to generate 
 
 Finding:
 
-Greater Mumbai, India generated the highest transaction amount of **576,751,476**, making it the highest revenue-generating city in the dataset.
+Greater Mumbai, India generated the highest transaction amount of 576,751,476, making it the highest revenue-generating city in the dataset.
 
 Business Impact:
 
