@@ -253,3 +253,8 @@ SELECT TOP 3
 FROM CreditCardTransactions
 GROUP BY City
 ORDER BY TotalAmount DESC;
+
+
+SQL Queries:
+
+https://github.com/manamratnakumar/Credit-Card-Transaction-Analysis-Using-SQL-Server/blob/main/Screen%20shots.md
